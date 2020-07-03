@@ -1,0 +1,125 @@
+body {
+  color: #112d4e;
+}
+
+h1 {
+  font-size: 3rem;
+  font-weight: bold;
+  line-height: 1.5;
+}
+
+h2 {
+  font-size: 2rem;
+  line-height: 1.5;
+}
+
+h3 {
+  font-size: 2rem;
+  line-height: 1.5;
+  text-align: center;
+}
+
+h4 {
+  font-size: 1.5rem;
+}
+
+#title {
+  background-color: #f9f7f7;
+}
+
+.container-fluid {
+  padding: 3% 15% 7%;
+}
+
+.navbar {
+  padding: 0 0 4.5rem;
+}
+
+.navbar-brand {
+  font-family: "Ubuntu";
+  font-size: 3rem;
+  font-weight: bold;
+}
+
+.nav-item {
+  padding: 0 18px;
+}
+
+.title-img {
+  width: 60%;
+  transform: rotate(25deg);
+  position: absolute;
+  right: 25%;
+}
+
+/* Apps */
+#apps {
+  background-color: #dbe2ef;
+  padding: 5% 15%;
+}
+
+.app-row {
+  padding: 4% 0;
+}
+
+.app-title {
+  font-size: 1.5rem;
+}
+
+.app-description {
+  font-size: 0.8rem;
+}
+
+ul.app-description {
+  list-style-type: circle;
+  padding-left: 7%;
+}
+
+.app-img {
+  width: 100%;
+}
+
+/* Experience */
+#experience {
+  background-color: #f9f7f7;
+  padding: 5% 15%;
+}
+
+.experience-header {
+  margin: 1rem 0;
+}
+
+.experience-row {
+  padding: 3% 10%;
+}
+
+.experience-img {
+  border-radius: 100%;
+}
+
+ul.experience-description {
+  padding-left: 10%;
+}
+
+
+/* Formation */
+#formation {
+  background-color: #dbe2ef;
+  padding: 5% 15%;
+}
+
+.formation-header {
+  margin: 1rem 0;
+}
+
+.formation-row {
+  padding: 3% 10%;
+}
+
+.formation-img {
+  border-radius: 100%;
+}
+
+ul.formation-description {
+  padding-left: 10%;
+}
